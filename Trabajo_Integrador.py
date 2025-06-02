@@ -33,7 +33,7 @@ lista_especialistas = ["Neurologo", "Pediatra", "Traumatologo", "Cardiologo", "C
 
 lista_especialistas_ordenada = quicksort(lista_especialistas)
 
-# Nombres de doctores con su espcialidad utilizando diccionario
+# Nombres de doctores con su especialidad utilizando diccionario
 
 doctores_por_especialidad = {
     'Cardiologo': ['Dr. Hernán Cabrera', 'Dr. Iván Romero', 'Dr. Marcelo Vargas'],
