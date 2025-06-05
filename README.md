@@ -7,5 +7,5 @@ Este repositorio contiene un trabajo integrador desarrollado en Python como part
 ## Instrucciones para correr el código
 
 En la consola, ingrese el nombre del archivo trabajo_integrador.py para ejecutarlo.
-Complete su nombre y apellido, mail y especialidad a buscar cuando se lo requirea.
-Si desea tomar un nuevo turno ingrese si, de lo contrario ingrese no (o cualquier caracter) y el programa finalizará.
+Complete su nombre y apellido, mail y especialidad a buscar cuando se lo requiera.
+Si desea tomar un nuevo turno ingrese si, de lo contrario ingrese no (o cualquier carácter) y el programa finalizará.
